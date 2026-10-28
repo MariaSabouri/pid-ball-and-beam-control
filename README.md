@@ -41,7 +41,7 @@ PID control was selected as a practical, model-independent control approach that
 
 Watch the video demonstration of the physical system and its control behavior:
 
-[**Watch the Ball-and-Beam PID Control Demo**](YOUR_GOOGLE_DRIVE_VIDEO_LINK)
+[**Watch the Ball-and-Beam PID Control Demo**](https://drive.google.com/file/d/1Kl1xTXu-N69wJTXSA8b7PPhfU_A4Duk7/view?usp=drive_link)
 
 ## Technologies and Concepts
 
